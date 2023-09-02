@@ -21,7 +21,7 @@ I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <br />
 <br />
 
-### Languages and Tools
+:hammer_and_wrench: Languages and Tools :
 
 <p align="center">
   <a href="https://skillicons.dev">
