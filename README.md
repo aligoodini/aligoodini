@@ -1,29 +1,10 @@
 <div id="header" align="center">
+  <img src="https://github.com/aligoodini/aligoodini/blob/main/68747470733a2f2f692e696d6775722e636f6d2f7267536f776e552e706e67.png" width="300px"/>
     <h1>
-  hey there Im Amir Keramat 
+  Hi there Im Ali Goodini 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-      <div id="badges">
-          <a href="https://amirkeramat.ir">
-              <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="personalwebsite"/>
-          </a>
-  <a href="https://www.linkedin.com/in/amir-keramat-2780a7280">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
-    </a>
-    <a href="https://t.me/amirkeramat1">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"  />
-    </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-  <img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="400"/>
+    
 
 
   <div align='center'>
