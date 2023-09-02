@@ -25,7 +25,7 @@ I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,github,nextjs,redux,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,github" />
   </a>
 </p>
 
