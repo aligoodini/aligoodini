@@ -12,8 +12,6 @@
 
 I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :seedling: I Use html , css , javaScript
-- :seedling: I'm learning ReactJs
 
 ---
 
@@ -25,7 +23,7 @@ I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,git,wordpress" />
+    <img src="https://skillicons.dev/icons?i=wordpress,html,css,bootstrap,sass,js,git,react,regex" />
   </a>
 </p>
 
